@@ -1,4 +1,5 @@
 .DataItem {
   border: 1px purple solid;
   list-style: none;
+  margin: 20px;
 }
